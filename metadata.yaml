@@ -1,0 +1,39 @@
+_repo: Uma-fam-lia-ingleza--Scenas-da-vida-do-Porto_16443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dinis, Júlio
+    aliases:
+    - Denis, Júlio
+    - Dinis, Julio
+    - Deniz, Júlio
+    - Diniz, Júlio
+    - De Aveleda, Diana
+    - Aveleda, Diana de
+    - Gomes Coelho, Joaquim Guilherme
+    - Coelho, Joaquim Guilherme Gomes
+    - Coelho, José Joaquim Gomes
+    - Coelho, Jose Joaquim Gomes
+    birthdate: 1839
+    deathdate: 1871
+    gutenberg_agent_id: '6700'
+    url: http://www.gutenberg.org/2009/agents/6700
+    wikipedia: http://pt.wikipedia.org/wiki/Júlio_Dinis
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16443'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'British -- Portugal -- Porto -- Fiction'
+title: 'Uma família ingleza: Scenas da vida do Porto'
+url: http://www.gutenberg.org/ebooks/16443
