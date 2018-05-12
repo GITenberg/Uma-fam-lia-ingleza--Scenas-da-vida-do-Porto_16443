@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6700
     wikipedia: http://pt.wikipedia.org/wiki/Júlio_Dinis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16443#Uma-fam-lia-ingleza--Scenas-da-vida-do-Porto
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2005-08-05'
 gutenberg_type: Text
